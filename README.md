@@ -20,7 +20,7 @@ Welcome to Flappy Bird, a fun and addictive game recreated with amazing animatio
 
 🚀 How to Run
    1. Clone the repository:
-       🚀 git clone https://github.com/yourusername/flappybird-game.git
+       🚀 git clone [https://github.com/yourusername/flappybird-game.git](https://github.com/Ajay-Singh-Yadav/FlappyBirdGame)
    2. Navigate to the project directory:
       🚀  cd flappybird-game
    3. Install dependencies:
