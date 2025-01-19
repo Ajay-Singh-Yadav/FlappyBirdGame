@@ -1,3 +1,7 @@
+
+Flappy Bird Game 🐦🎮
+Welcome to Flappy Bird, a fun and addictive game recreated with amazing animations and smooth gameplay! 🚀✨ Challenge yourself to navigate the bird through obstacles and achieve the highest score. Perfect for those who love casual games with a touch of charm.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
